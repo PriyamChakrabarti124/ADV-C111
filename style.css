@@ -1,0 +1,60 @@
+body
+{
+  color: white;
+  background: rgb(128, 54, 99);
+  font-size: 22px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name 
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.Emoji
+{
+  font-size:48px;
+}
+
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+#prediction
+{
+  background-color: lightgoldenrodyellow;
+  border-radius: 8px;
+  color: black;
+  height: 5%;
+  width: 45%;
+  padding-top: 7px;
+  margin-top: 20px;
+}
+
+.line
+{
+  background-color: white;
+  width: 3px;
+  height: 40px;
+  display: inline-block;
+  margin-top: 16px;
+}
+
+.emoji
+{
+  font-size: 35px;
+}
